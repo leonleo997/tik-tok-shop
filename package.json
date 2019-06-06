@@ -1,0 +1,19 @@
+{
+  "name": "tik-tok",
+  "version": "1.0.0",
+  "description": "This is a website about watches and clocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonleo997/tik-tok-shop.git"
+  },
+  "author": "Yesid Leonardo López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonleo997/tik-tok-shop/issues"
+  },
+  "homepage": "https://github.com/leonleo997/tik-tok-shop#readme"
+}
